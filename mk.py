@@ -1,4 +1,7 @@
 print('hello_world')
 
 a = 4
-print(a**5)
+c = print(a**5)
+
+for d in range(c):
+	print(c)
